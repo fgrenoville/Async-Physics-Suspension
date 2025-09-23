@@ -1,0 +1,8 @@
+Model Information:
+* title:	VEHICLE - SUBARU BRZ ROCKET BUNNY
+* source:	https://sketchfab.com/3d-models/vehicle-subaru-brz-rocket-bunny-1563ba1fc4594e4298ac79cb376bbbbb
+* author:	thcyrax (https://sketchfab.com/thcyrax3D)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
