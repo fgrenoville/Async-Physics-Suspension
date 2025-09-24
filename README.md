@@ -25,7 +25,7 @@ The project shows how to:
 
 This project is explained step by step in my Medium article:
 
-👉 Taming Chaos: Stable Vehicle Suspensions with Async Physics in UE5 (pending approval)
+👉 Taming Chaos: Stable Vehicle Suspensions with Async Physics in UE5 (https://levelup.gitconnected.com/taming-chaos-stable-vehicle-suspensions-with-async-physics-in-ue5-566369c7b097)
 
 
 If you want to dive into the theory behind integration and physics in game engines, check out the previous article here:
